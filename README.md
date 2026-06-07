@@ -1,5 +1,3 @@
-# Iconique
-Iconique is a modern fashion e-commerce website designed to deliver a seamless shopping experience for Women, Men, and Kids. It features product browsing, search, filters, wishlist, cart, secure checkout, login/signup, reviews, and contact forms. Built using HCI principles, it combines elegance, usability, and accessibility.
 # ICONIQUE – Luxury Fashion E-Commerce Website
 
 ## Overview
